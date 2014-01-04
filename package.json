@@ -1,0 +1,27 @@
+{
+  "name": "waldo-boolean-query",
+  "version": "0.0.0",
+  "description": "Perform boolean queries against an inverted index such as waldo-imii",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaz303/waldo-boolean-query.git"
+  },
+  "keywords": [
+    "boolean",
+    "query",
+    "nlp",
+    "free",
+    "text",
+    "search"
+  ],
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaz303/waldo-boolean-query/issues"
+  },
+  "homepage": "https://github.com/jaz303/waldo-boolean-query"
+}
